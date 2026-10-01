@@ -1,4 +1,4 @@
-# Implementação do Algorítmo Particle Swarm Optimization
+# Implementação do Algoritmo Particle Swarm Optimization
 
 
 
